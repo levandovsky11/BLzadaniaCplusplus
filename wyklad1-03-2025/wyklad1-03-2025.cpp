@@ -1,6 +1,7 @@
 ﻿#include <iostream>
 using namespace std;
 int main() {
-    cout << "Witaj w programowaniu w C++! ";
+    int a = 10;
+    cout << "Liczba: " << a;
     return 0;
 }
