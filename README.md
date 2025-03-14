@@ -1,4 +1,4 @@
 # BLzadaniaCplusplus
 zadania z C++
 
-update readme: 1.03.2025
+update readme: 14.03.2025
