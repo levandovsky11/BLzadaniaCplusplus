@@ -2,17 +2,13 @@
 using namespace std;
 
 int main() {
-    int count = 0;
-    for (int i = 1; i <= 9; i++) {
-        for (int j = 0; j <= 9; j++) {
-            for (int k = 0; k <= 9; k++) {
-                if (i != j && i != k && j != k) {
-                    cout << i << j << k << endl;
-                    count++;
-                }
-            }
-        }
+    int N;
+    cout << "Podaj liczbe N: ";
+    cin >> N;
+    int suma = 0;
+    for (int i = 1; i <= N; i++) {
+        suma += i;
     }
-    cout << "Liczb bez powtarzajacych sie cyfr: " << count << endl;
+    cout << "Suma liczb od 1 do " << N << " wynosi: " << suma << endl;
     return 0;
 }
