@@ -1,4 +1,4 @@
-﻿#include <iostream>
+#include <iostream>
 #include <cstring>
 using namespace std;
 
@@ -15,3 +15,6 @@ int main() {
     cout << "Odwrocony ciag: " << odwrocony << endl;
     return 0;
 }
+
+
+
