@@ -1,4 +1,4 @@
-﻿#include <iostream>
+#include <iostream>
 using namespace std;
 
 int wybranaLiczba() {
@@ -26,3 +26,11 @@ int main() {
     wynik(liczba, silnia);
     return 0;
 }
+
+
+
+
+
+
+
+
