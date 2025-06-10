@@ -64,7 +64,7 @@ cd BLzadaniaCplusplus
 
 ---
 
-## BONUS: Automatyczne wysyłanie na GitHub – `gitbasz.sh`
+## 🌵 BONUS: Automatyczne wysyłanie na GitHub – `gitbasz.sh` 🌵
 
 ```w bash'u:
 ./gitbasz.sh
