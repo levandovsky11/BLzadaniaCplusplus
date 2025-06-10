@@ -1,10 +1,11 @@
-# Bartłomiej Lewandowski zadania C plus plus
+# Bartłomiej Lewandowski zadania w C plus plus
 
 **w skrócie BLzadaniaCplusplus** to repozytorium z rozwiązanymi zadaniami z C++, które powstały podczas wykładów i laboratoriów *Podstawy programowania C++* (semestr letni 2024/2025).
 
 ## Struktura katalogów
 
-Każdy folder odpowiada jednemu tematowi zajęć i zawiera **kilka plików źródłowych** np. `zadanie 1.cpp`, `zadanie 2.cpp`, … **każdy z nich ma własną funkcję `main()`**, więc można je uruchamiać niezależnie.
+Każdy folder odpowiada jednemu tematowi zajęć i zawiera **kilka plików źródłowych** 
+np. `zadanie 1.cpp`, `zadanie 2.cpp`, … **każdy z nich ma własną funkcję `main()`**, więc można je uruchamiać niezależnie.
 
 ```
 1 wyklad 1 1-03-2025/                   # pierwsze programy z zajęć i konfiguracja środowiska
@@ -63,7 +64,7 @@ cd BLzadaniaCplusplus
 
 ---
 
-## Automatyczne wysyłanie na GitHub – `gitbasz.sh`
+## BONUS: Automatyczne wysyłanie na GitHub – `gitbasz.sh`
 
 ```w bash'u:
 ./gitbasz.sh
