@@ -5,7 +5,7 @@
 ## Struktura katalogów
 
 Każdy folder odpowiada jednemu tematowi zajęć i zawiera **kilka plików źródłowych** 
-np. `zadanie 1.cpp`, `zadanie 2.cpp`, … **każdy z nich ma własną funkcję `main()`**, więc można je uruchamiać niezależnie.
+ np. `zadanie 1.cpp`, `zadanie 2.cpp`, … **każdy z nich ma własną funkcję `main()`**, więc można je uruchamiać niezależnie.
 
 ```
 1 wyklad 1 1-03-2025/                   # pierwsze programy z zajęć i konfiguracja środowiska
