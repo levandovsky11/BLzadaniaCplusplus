@@ -1,6 +1,0 @@
-git pull
-----------
-git add *
-git status
-git commit -m "Komentarz"
-git push origin main
